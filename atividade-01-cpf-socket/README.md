@@ -11,6 +11,7 @@ Funcionamento
   - O CPF é enviado ao servidor
   - O servidor realiza a validação com base no algoritmo oficial
   - O resultado (válido ou inválido) é retornado ao cliente
+
 Conceitos aplicados:
   - Programação em Java
   - Comunicação cliente-servidor (Sockets)
@@ -18,10 +19,12 @@ Conceitos aplicados:
   - Estruturas de repetição e decisão
   - Manipulação de Strings
   - Validação de CPF
+
 Como executar:
   - Execute o Servidor.java
   - Execute o Cliente.java
   - Digite um CPF quando solicitado
+
 Observações:
   - Comunicação via localhost (127.0.0.1)
   - Porta utilizada: 50000
